@@ -12,5 +12,11 @@ public interface BinaryTree {
 
     void layerTraverseByQueue(Node root);
 
+    void hierarchicalLayerTraverse(Node root);
 
+    Node getFirst(Node root);
+
+    Node getLast(Node root);
+
+//    <T extends Comparable<T>> Node getNode(T key, Node root);
 }

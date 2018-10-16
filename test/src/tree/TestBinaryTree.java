@@ -12,15 +12,21 @@ public class TestBinaryTree {
         Node<Integer> root=n3;
 
         BinaryTree demo=new MyBinaryTree();
-        demo.preOrderTraverse(root);
-        System.out.println();
-        demo.inOrderTraverse(root);
-        System.out.println();
-        demo.inOrderByStack(root);
-        System.out.println();
-        demo.postOrderTraverse(root);
-        System.out.println();
-        demo.layerTraverseByQueue(root);
+//        demo.preOrderTraverse(root);
+//        System.out.println();
+//        demo.inOrderTraverse(root);
+//        System.out.println();
+//        demo.inOrderByStack(root);
+//        System.out.println();
+//        demo.postOrderTraverse(root);
+//        System.out.println();
+//        demo.layerTraverseByQueue(root);
+
+//        demo.hierarchicalLayerTraverse(root);
+
+        Node<Integer> temp=demo.getNode(9,root);
+        System.out.println(temp.getData());
+
     }
 
 }
