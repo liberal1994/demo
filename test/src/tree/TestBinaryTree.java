@@ -24,8 +24,8 @@ public class TestBinaryTree {
 
 //        demo.hierarchicalLayerTraverse(root);
 
-        Node<Integer> temp=demo.getNode(9,root);
-        System.out.println(temp.getData());
+//        Node<Integer> temp=demo.getNode(9,root);
+//        System.out.println(temp.getData());
 
     }
 
