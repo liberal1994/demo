@@ -14,12 +14,12 @@ public class InsertSort {
         //从1开始循环,以arr[i]作为基准值与数组之前的元素进行比较
         for (int i = 1; i < arr.length; i++) {
             int temp = arr[i];
-            int j = i - 1;
-            while (j >= 0 && arr[j] > temp) {
-                arr[j + 1] = arr[j];
+            int j = i;
+            while (j > 0 && arr[j - 1] > temp) {
+                arr[j] = arr[j - 1];
                 j--;
             }
-            arr[j + 1] = temp;
+            arr[j] = temp;
         }
     }
 }

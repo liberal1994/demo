@@ -135,20 +135,23 @@ public class MyBinaryTree implements BinaryTree {
     /**
      * 获取中序后继节点
      *
-     * @param root
+     * @param p
      * @return
      */
     @Override
-    public Node getFirst(Node root) {
-        //当root本身为root或者root没有右子树（中序后继是本身），返回null
-        if (null == root || null == root.getRight()) {
+    public Node successor(Node p) {
+        if (null == p) {
             return null;
         }
-        Node temp = root.getRight();
-        while (null != temp.getLeft()) {
-            temp = temp.getLeft();
+        if (null != p.getRight()) {
+            Node temp = p.getRight();
+            while (null != temp.getLeft()) {
+                temp = temp.getLeft();
+            }
+            return temp;
         }
-        return temp;
+
+        return null;
     }
 
     /**

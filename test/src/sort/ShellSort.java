@@ -1,6 +1,7 @@
 package sort;
 
 import java.util.Arrays;
+import java.util.Collections;
 
 public class ShellSort {
     public static void main(String[] args) {
@@ -11,7 +12,7 @@ public class ShellSort {
     }
 
     private static void shellSort(int[] arr) {
-        if (null == arr) {
+        if (null == arr || arr.length == 0) {
             return;
         }
         int h = 1;

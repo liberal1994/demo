@@ -14,7 +14,7 @@ public interface BinaryTree {
 
     void hierarchicalLayerTraverse(Node root);
 
-    Node getFirst(Node root);
+    Node successor(Node root);
 
     Node getLast(Node root);
 
