@@ -4,11 +4,7 @@
     <bookmark url="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/Deque.java" line="192" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdafbbd8-9877-423e-abeb-7347215a54ed" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/test/src/test/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/test/Son.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bdafbbd8-9877-423e-abeb-7347215a54ed" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,8 +62,8 @@
       <file leaf-file-name="TreeMap.java" pinned="false" current-in-tab="true">
         <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/TreeMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="2271" column="17" lean-forward="true" selection-start-line="2271" selection-start-column="17" selection-end-line="2271" selection-end-column="17" />
+            <state relative-caret-position="984">
+              <caret line="2271" column="17" selection-start-line="2271" selection-start-column="17" selection-end-line="2271" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -126,19 +122,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demo" type="b2602c69:ProjectViewProjectNode" />
@@ -179,58 +170,11 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="tree" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -394,7 +338,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" />
       <window_info anchor="right" id="Palette" order="4" />
@@ -405,19 +348,19 @@
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.3297587" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.26863572" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.22644164" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.26863572" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3206751" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49648383" visible="true" weight="0.34919572" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49507734" visible="true" weight="0.3538874" />
       <window_info anchor="bottom" id="Tail" order="7" />
-      <window_info id="Structure" order="1" sideWeight="0.5035162" side_tool="true" visible="true" weight="0.34919572" />
+      <window_info id="Structure" order="1" sideWeight="0.5042135" side_tool="true" weight="0.3538874" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2644163" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.13337801" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32911393" />
@@ -756,8 +699,8 @@
     </entry>
     <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/TreeMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="2271" column="17" lean-forward="true" selection-start-line="2271" selection-start-column="17" selection-end-line="2271" selection-end-column="17" />
+        <state relative-caret-position="984">
+          <caret line="2271" column="17" selection-start-line="2271" selection-start-column="17" selection-end-line="2271" selection-end-column="17" />
         </state>
       </provider>
     </entry>
