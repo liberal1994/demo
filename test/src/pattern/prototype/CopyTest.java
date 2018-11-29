@@ -6,7 +6,7 @@ public class CopyTest {
     private static Class<CopyTest> clazz=CopyTest.class;
 
     public static void main(String[] args) {
-        String result1,result2,result3="";
+        String result1,result2,result3;
         result1=testEqualDirectly();
         result2=testShallowClone();
         result3=testDeepClone();
@@ -58,15 +58,7 @@ public class CopyTest {
         return outputPanda("testEqualDirectly",panda1, panda2);
     }
 
-    private static String getMethodName(String name){
-        String methodName="";
-        try{
-            methodName=clazz.getDeclaredMethod(name,null).getName();
-        }catch(Exception e){
-            return null;
-        }
-        return methodName;
-    }
+
     private static String outputPanda(String name,Panda panda1, Panda panda2) {
         return name+":\npanda1: " + panda1.toString() + "\npanda2: " + panda2.toString();
     }

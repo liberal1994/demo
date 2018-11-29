@@ -27,7 +27,11 @@ public class Chess {
     public Chess() {
     }
 
-    public void ahead(Coordinate c) {//下棋
+    /**
+     * 下棋
+     * @param c
+     */
+    public void ahead(Coordinate c) {
         String convertColor = "";
         if (this.color.equalsIgnoreCase(ChessColor.WHITE.getColor())) {
             convertColor = "白";
