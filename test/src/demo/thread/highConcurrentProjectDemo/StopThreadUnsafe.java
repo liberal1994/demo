@@ -1,4 +1,4 @@
-package demo.thread;
+package demo.thread.highConcurrentProjectDemo;
 
 public class StopThreadUnsafe {
     public static User u = new User();

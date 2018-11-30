@@ -5,39 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bdafbbd8-9877-423e-abeb-7347215a54ed" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/test/src/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/demo/thread/callable_test/Machine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/demo/thread/callable_test/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/LinkedBlockingQueue_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/SynchronousQueue_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/SynchronousQueue_Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/TransferQueue_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/demo/thread/deadlock_test/TestDeadLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/demo/thread/reentrantllock_test/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/demo/thread/synchronized_test/TestParentSynReentrant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/demo/thread/synchronized_test/TestReentrantSynchronized.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/demo/thread/synchronizedmap/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/pattern/singleton/hungerStyle/City.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/pattern/singleton/hungerStyle/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/pattern/singleton/lazyload/City.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/pattern/singleton/lazyload/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/pattern/singleton/lazyload2/City.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/pattern/singleton/lazyload2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/pattern/singleton/lazyload3/City.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/pattern/singleton/lazyload3/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/pattern/singleton/test/City.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/pattern/singleton/test/CityFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/pattern/singleton/test/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/pattern/templatemethod/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/pattern/templatemethod/Dancer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/pattern/templatemethod/Singer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/pattern/templatemethod/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/utils/StringUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/TestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/TestDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/demo/thread/ConcurrentList/ListAndVector_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/ConcurrentLinkedQueue_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/blockingqueue/BlockingQueue_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/blockingqueue/delayqueue/DelayQueue_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/blockingqueue/delayqueue/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/blockingqueue/transferqueue/TransferQueue_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/blockingqueue/transferqueue/TransferQueue_Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/demo/thread/threadpool/future/FutureTask_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/demo/thread/threadpool/future/Future_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/demo/thread/threadpool/note.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/pattern/flyweight/Chess.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/pattern/flyweight/Chess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/pattern/prototype/CopyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/pattern/prototype/CopyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/test/Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/test/Son.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/demo/thread/DaemonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/demo/thread/highConcurrentProjectDemo/DaemonDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/demo/thread/PriorityDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/demo/thread/highConcurrentProjectDemo/PriorityDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/demo/thread/StopThreadUnsafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/demo/thread/highConcurrentProjectDemo/StopThreadUnsafe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/demo/thread/callable_test/Machine.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/demo/thread/callable_test/Machine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/demo/thread/callable_test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/demo/thread/callable_test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/LinkedBlockingQueue_Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/SynchronousQueue_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/blockingqueue/synchronousqueue/SynchronousQueue_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/SynchronousQueue_Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/blockingqueue/synchronousqueue/SynchronousQueue_Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/TransferQueue_Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/demo/thread/synchronized_test/TestReentrantSynchronized.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/demo/thread/synchronized_test/TestReentrantSynchronized.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/pattern/templatemethod/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/pattern/templatemethod/Test.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -53,11 +46,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LinkedBlockingQueue_Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/LinkedBlockingQueue_Test.java">
+      <file leaf-file-name="SynchronousQueue_Test2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/blockingqueue/synchronousqueue/SynchronousQueue_Test2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="7" column="64" lean-forward="true" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
+            <state relative-caret-position="50">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SynchronousQueue_Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/blockingqueue/synchronousqueue/SynchronousQueue_Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TransferQueue_Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/blockingqueue/transferqueue/TransferQueue_Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-40">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,11 +76,71 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TransferQueue_Test.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/TransferQueue_Test.java">
+      <file leaf-file-name="TransferQueue_Test2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/blockingqueue/transferqueue/TransferQueue_Test2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FutureTask_Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/src/demo/thread/threadpool/future/FutureTask_Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Future_Test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/src/demo/thread/threadpool/future/Future_Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/src/demo/thread/callable_test/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListAndVector_Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/src/demo/thread/ConcurrentList/ListAndVector_Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RunnableFuture.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/concurrent/RunnableFuture.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="236">
+              <caret line="47" column="55" selection-start-line="47" selection-start-column="55" selection-end-line="47" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="note.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/src/demo/thread/threadpool/note.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -80,6 +151,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -93,7 +165,13 @@
       <find>remove</find>
       <find>segment</find>
       <find>get</find>
+      <find>out</find>
+      <find>add</find>
+      <find>transfer</find>
     </findStrings>
+    <replaceStrings>
+      <replace>error</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -101,28 +179,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/src/tree/Node.java" />
-        <option value="$PROJECT_DIR$/test/src/tree/MyLInkedList.java" />
-        <option value="$PROJECT_DIR$/test/src/sort/QuickSort.java" />
-        <option value="$PROJECT_DIR$/test/src/sort/shellSort.java" />
-        <option value="$PROJECT_DIR$/test/src/tree/TestBinaryTree.java" />
-        <option value="$PROJECT_DIR$/test/src/algorithm/LongestSubstring.java" />
-        <option value="$PROJECT_DIR$/test/src/tree/redblacktree/Entry.java" />
-        <option value="$PROJECT_DIR$/test/src/tree/redblacktree/RBTree.java" />
-        <option value="$PROJECT_DIR$/test/src/tree/BinaryTree.java" />
-        <option value="$PROJECT_DIR$/test/src/sort/ShellSort.java" />
-        <option value="$PROJECT_DIR$/test/src/sort/InsertSort.java" />
-        <option value="$PROJECT_DIR$/test/src/tree/MyBinaryTree.java" />
-        <option value="$PROJECT_DIR$/test/src/test/Parent.java" />
-        <option value="$PROJECT_DIR$/test/src/test/Son.java" />
-        <option value="$PROJECT_DIR$/test/src/algorithm/tree/BST/TestBinaryTree.java" />
-        <option value="$PROJECT_DIR$/test/src/algorithm/leetcode/LIstNode.java" />
-        <option value="$PROJECT_DIR$/test/src/algorithm/leetcode/ListNode.java" />
-        <option value="$PROJECT_DIR$/test/src/pattern/flyweight/Chess.java" />
-        <option value="$PROJECT_DIR$/test/src/pattern/prototype/CopyTest.java" />
-        <option value="$PROJECT_DIR$/test/src/pattern/singleton/test/TestMapSingleton.java" />
-        <option value="$PROJECT_DIR$/test/src/utils/StringUtil.java" />
-        <option value="$PROJECT_DIR$/test/src/pattern/singleton/test/City.java" />
         <option value="$PROJECT_DIR$/test/src/pattern/singleton/test/CityFactory.java" />
         <option value="$PROJECT_DIR$/test/src/pattern/singleton/test/Test.java" />
         <option value="$PROJECT_DIR$/test/src/pattern/singleton/lazyload/Test.java" />
@@ -135,23 +191,45 @@
         <option value="$PROJECT_DIR$/test/src/pattern/templatemethod/Company.java" />
         <option value="$PROJECT_DIR$/test/src/pattern/templatemethod/Dancer.java" />
         <option value="$PROJECT_DIR$/test/src/pattern/templatemethod/Singer.java" />
-        <option value="$PROJECT_DIR$/test/src/pattern/templatemethod/Test.java" />
-        <option value="$PROJECT_DIR$/test/src/demo/thread/callable_test/Machine.java" />
-        <option value="$PROJECT_DIR$/test/src/demo/thread/callable_test/Test.java" />
         <option value="$PROJECT_DIR$/test/src/demo/thread/reentrantllock_test/Test.java" />
         <option value="$PROJECT_DIR$/test/src/demo/thread/reentrantllock_test/Test1.java" />
         <option value="$PROJECT_DIR$/test/src/demo/thread/TestReentrantSynchronized.java" />
-        <option value="$PROJECT_DIR$/test/src/demo/thread/synchronized_test/TestReentrantSynchronized.java" />
         <option value="$PROJECT_DIR$/test/src/demo/thread/synchronized_test/TestParentSynReentrant.java" />
         <option value="$PROJECT_DIR$/test/src/demo/thread/deadlock_test/TestDeadLock.java" />
-        <option value="$PROJECT_DIR$/test/src/Test.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/test/src/demo/thread/synchronizedmap/Test.java" />
         <option value="$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/BlockingLinkedQueue_Test.java" />
+        <option value="$PROJECT_DIR$/test/src/pattern/templatemethod/Test.java" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/LinkedBlockingQueue_Test.java" />
-        <option value="$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/SynchronousQueue_Test2.java" />
+        <option value="$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/ConcurrentLinkedQueue_Test.java" />
         <option value="$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/SynchronousQueue_Test.java" />
+        <option value="$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/SynchronousQueue_Test2.java" />
         <option value="$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/TransferQueue_Test.java" />
+        <option value="$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/TransferQueue_Test2.java" />
+        <option value="$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/DelayQueue_Test.java" />
+        <option value="$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/delayqueue/Task.java" />
+        <option value="$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/delayqueue/DelayQueue_Test.java" />
+        <option value="$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/blockingqueue/SynchronousQueue_Test2.java" />
+        <option value="$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/blockingqueue/TransferQueue_Test2.java" />
+        <option value="$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/blockingqueue/synchronousqueue/SynchronousQueue_Test2.java" />
+        <option value="$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/blockingqueue/transferqueue/TransferQueue_Test2.java" />
+        <option value="$PROJECT_DIR$/test/src/Test.java" />
+        <option value="$PROJECT_DIR$/test/src/TestDemo.java" />
+        <option value="$PROJECT_DIR$/test/src/TestDemoTest.java" />
+        <option value="$PROJECT_DIR$/test/src/demo/thread/synchronized_test/TestReentrantSynchronized.java" />
+        <option value="$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/blockingqueue/BlockingQueue_Test.java" />
+        <option value="$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/blockingqueue/delayqueue/Task.java" />
+        <option value="$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/blockingqueue/delayqueue/DelayQueue_Test.java" />
+        <option value="$PROJECT_DIR$/test/src/demo/thread/highConcurrentProjectDemo/StopThreadUnsafe.java" />
+        <option value="$PROJECT_DIR$/test/src/demo/thread/callable_test/Machine.java" />
+        <option value="$PROJECT_DIR$/test/src/demo/thread/threadpool/note.txt" />
+        <option value="$PROJECT_DIR$/test/src/demo/thread/threadpool/note.md" />
+        <option value="$PROJECT_DIR$/test/src/demo/thread/callable_test/Test.java" />
+        <option value="$PROJECT_DIR$/test/src/demo/thread/threadpool/future/FutureTask.java" />
+        <option value="$PROJECT_DIR$/test/src/demo/thread/ConcurrentList/ListAndVector.java" />
+        <option value="$PROJECT_DIR$/test/src/demo/thread/ConcurrentList/ListAndVector_Test.java" />
+        <option value="$PROJECT_DIR$/test/src/demo/thread/threadpool/future/FutureTask_Test.java" />
+        <option value="$PROJECT_DIR$/test/src/demo/thread/threadpool/future/Future_Test.java" />
       </list>
     </option>
   </component>
@@ -172,6 +250,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -218,6 +298,102 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="classloader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="collection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="collection" type="462c0819:PsiDirectoryNode" />
+              <item name="enumeration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="collection" type="462c0819:PsiDirectoryNode" />
+              <item name="hashmap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="collection" type="462c0819:PsiDirectoryNode" />
+              <item name="list" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="collection" type="462c0819:PsiDirectoryNode" />
+              <item name="queue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="collection" type="462c0819:PsiDirectoryNode" />
+              <item name="queue" type="462c0819:PsiDirectoryNode" />
+              <item name="TestDeque.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="collection" type="462c0819:PsiDirectoryNode" />
+              <item name="queue" type="462c0819:PsiDirectoryNode" />
+              <item name="TestQueue.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
               <item name="math" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -226,7 +402,41 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="opeartor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
               <item name="thread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="callable_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="ConcurrentList" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demo" type="b2602c69:ProjectViewProjectNode" />
@@ -244,7 +454,58 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
               <item name="thread" type="462c0819:PsiDirectoryNode" />
-              <item name="synchronizedmap" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrentqueue" type="462c0819:PsiDirectoryNode" />
+              <item name="blockingqueue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrentqueue" type="462c0819:PsiDirectoryNode" />
+              <item name="blockingqueue" type="462c0819:PsiDirectoryNode" />
+              <item name="synchronousqueue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrentqueue" type="462c0819:PsiDirectoryNode" />
+              <item name="blockingqueue" type="462c0819:PsiDirectoryNode" />
+              <item name="transferqueue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="highConcurrentProjectDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="threadpool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="threadpool" type="462c0819:PsiDirectoryNode" />
+              <item name="future" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demo" type="b2602c69:ProjectViewProjectNode" />
@@ -288,6 +549,12 @@
               <item name="demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="&lt; 1.8 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="junit-4.7.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
               <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -296,14 +563,6 @@
               <item name="&lt; 1.8 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
               <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lang" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demo" type="b2602c69:ProjectViewProjectNode" />
@@ -330,28 +589,12 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
               <item name="concurrent" type="462c0819:PsiDirectoryNode" />
-              <item name="atomic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="sun" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="sun" type="462c0819:PsiDirectoryNode" />
-              <item name="misc" type="462c0819:PsiDirectoryNode" />
+              <item name="locks" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -368,17 +611,29 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="Read&#9;FILE&#9;file://E:/demo/README.md&#10;Collections&#9;PSI&#9;JAVA://java.util.Collections&#10;Exception&#9;FILE&#9;jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/jre/lib/rt.jar!/java/lang/Exception.class" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="SearchEverywhereHistoryKey" value="Arraylis&#9;FILE&#9;jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/jre/lib/rt.jar!/java/util/ArrayList.class&#10;read&#9;FILE&#9;file://E:/demo/README.md&#10;Read&#9;FILE&#9;file://E:/demo/README.md&#10;Collections&#9;PSI&#9;JAVA://java.util.Collections&#10;Exception&#9;FILE&#9;jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/jre/lib/rt.jar!/java/lang/Exception.class" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="E:/java_utils/JUnit4/junit-4.7.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="com.poratu.idea.plugins.tomcat.setting.TomcatSettingConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="demo.thread.concurrentqueue" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\demo\test\src\pattern\singleton\lazyload3" />
       <recent name="E:\demo\test\src\pattern\singleton\lazyload2" />
@@ -396,58 +651,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SynchronousQueue_Test">
-    <configuration name="SynchronousQueue_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.thread.concurrentqueue.SynchronousQueue_Test" />
+  <component name="RunManager" selected="Application.Future_Test">
+    <configuration name="FutureTask_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.thread.threadpool.future.FutureTask_Test" />
       <module name="test" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.thread.concurrentqueue.*" />
+          <option name="PATTERN" value="demo.thread.threadpool.future.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SynchronousQueue_Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.thread.concurrentqueue.SynchronousQueue_Test2" />
+    <configuration name="Future_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.thread.threadpool.future.Future_Test" />
       <module name="test" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.thread.concurrentqueue.*" />
+          <option name="PATTERN" value="demo.thread.threadpool.future.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.thread.synchronizedmap.Test" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.thread.callable_test.Test" />
       <module name="test" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.thread.synchronizedmap.*" />
+          <option name="PATTERN" value="demo.thread.callable_test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="TestDeadLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.thread.deadlock_test.TestDeadLock" />
+    <configuration name="TransferQueue_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.thread.concurrentqueue.blockingqueue.transferqueue.TransferQueue_Test" />
       <module name="test" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.thread.deadlock_test.*" />
+          <option name="PATTERN" value="demo.thread.concurrentqueue.blockingqueue.transferqueue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="TestParentSynReentrant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.thread.synchronized_test.TestParentSynReentrant" />
+    <configuration name="TransferQueue_Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.thread.concurrentqueue.blockingqueue.transferqueue.TransferQueue_Test2" />
       <module name="test" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.thread.synchronized_test.*" />
+          <option name="PATTERN" value="demo.thread.concurrentqueue.blockingqueue.transferqueue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -494,19 +749,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.TestParentSynReentrant" />
-      <item itemvalue="Application.TestDeadLock" />
-      <item itemvalue="Application.Test (1)" />
-      <item itemvalue="Application.SynchronousQueue_Test" />
-      <item itemvalue="Application.SynchronousQueue_Test2" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.FutureTask_Test" />
+      <item itemvalue="Application.TransferQueue_Test" />
+      <item itemvalue="Application.TransferQueue_Test2" />
+      <item itemvalue="Application.Future_Test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SynchronousQueue_Test" />
-        <item itemvalue="Application.SynchronousQueue_Test2" />
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.TestDeadLock" />
-        <item itemvalue="Application.TestParentSynReentrant" />
+        <item itemvalue="Application.Future_Test" />
+        <item itemvalue="Application.FutureTask_Test" />
+        <item itemvalue="Application.TransferQueue_Test2" />
+        <item itemvalue="Application.TransferQueue_Test" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -538,6 +793,17 @@
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Test - 2018.11.30 at 23h 29m 56s.xml">
+      <configuration name="Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDemoTest_test1 - 2018.11.30 at 23h 37m 24s.xml">
+      <configuration name="TestDemoTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDemoTest_test1 - 2018.11.30 at 23h 42m 50s.xml">
+      <configuration name="TestDemoTest.test1" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
@@ -552,25 +818,25 @@
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.3297587" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.302391" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.26863572" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31926864" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3297587" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.17158931" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.4008439" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49507734" visible="true" weight="0.3894102" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49507734" visible="true" weight="0.3243968" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.29423591" />
       <window_info anchor="bottom" id="Tail" order="7" />
       <window_info id="Structure" order="1" sideWeight="0.5042135" side_tool="true" weight="0.3538874" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.28691983" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.35021096" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.29423591" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32911393" />
     </layout>
   </component>
@@ -609,7 +875,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="10" />
+      <option name="time" value="12" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -636,347 +902,25 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/lang/CharacterDataLatin1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="201" column="28" selection-start-line="201" selection-start-column="28" selection-end-line="201" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/lang/Character.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="6756" column="21" selection-start-line="6756" selection-start-column="21" selection-end-line="6756" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/pattern/prototype/CopyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/utils/StringUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/pattern/singleton/test/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/pattern/singleton/test/CityFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/pattern/singleton/hungerStyle/City.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/pattern/singleton/lazyload/City.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/pattern/singleton/lazyload2/City.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/demo/thread/PriorityDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/pattern/singleton/hungerStyle/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/pattern/singleton/lazyload/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/pattern/singleton/lazyload2/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/pattern/singleton/lazyload3/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/pattern/templatemethod/Dancer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/pattern/templatemethod/Company.java">
+    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <caret line="1162" column="29" selection-start-line="1162" selection-start-column="29" selection-end-line="1162" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/pattern/singleton/lazyload3/City.java">
+    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/lang/UnsupportedOperationException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/pattern/templatemethod/Singer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/demo/thread/CallableTest.java" />
-    <entry file="file://$PROJECT_DIR$/test/src/pattern/templatemethod/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/demo/thread/callable_test/Machine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/concurrent/ExecutorService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1836">
-          <caret line="136" column="17" selection-start-line="136" selection-start-column="17" selection-end-line="136" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/concurrent/Executors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1566">
-          <caret line="87" column="34" selection-start-line="87" selection-start-column="34" selection-end-line="87" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/demo/thread/callable_test/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/demo/thread/synchronized_test/TestReentrantSynchronized.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/demo/thread/synchronized_test/TestParentSynReentrant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/demo/thread/reentrantllock_test/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/lang/Comparable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2430">
-          <caret line="135" column="15" selection-start-line="135" selection-start-column="15" selection-end-line="135" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21870">
-          <caret line="1215" column="19" selection-start-line="1215" selection-start-column="19" selection-end-line="1215" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="147" column="19" selection-start-line="147" selection-start-column="19" selection-end-line="147" selection-end-column="19" />
-          <folding>
-            <element signature="e#5748#5749#0" expanded="true" />
-            <element signature="e#5784#5785#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-330">
-          <caret line="2546" column="48" selection-start-line="2546" selection-start-column="33" selection-end-line="2546" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/LinkedHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="193" column="8" selection-start-line="193" selection-start-column="8" selection-end-line="193" selection-end-column="8" />
-          <folding>
-            <element signature="e#8806#8807#0" expanded="true" />
-            <element signature="e#8859#8860#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/demo/thread/deadlock_test/TestDeadLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="622" column="7" lean-forward="true" selection-start-line="622" selection-start-column="7" selection-end-line="622" selection-end-column="7" />
-          <folding>
-            <element signature="e#68529#68530#0" expanded="true" />
-            <element signature="e#68580#68581#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/TreeMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="2366" column="11" lean-forward="true" selection-start-line="2366" selection-start-column="11" selection-end-line="2366" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/concurrent/ConcurrentSkipListMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1062">
-          <caret line="115" column="13" selection-start-line="115" selection-start-column="13" selection-end-line="115" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14886">
-          <caret line="901" column="5" selection-start-line="901" selection-start-column="5" selection-end-line="901" selection-end-column="5" />
-          <folding>
-            <element signature="e#32334#32335#0" expanded="true" />
-            <element signature="e#32385#32386#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/concurrent/CopyOnWriteArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-90">
-          <caret line="395" column="24" selection-start-line="395" selection-start-column="24" selection-end-line="395" selection-end-column="24" />
-          <folding>
-            <element signature="e#3391#3392#0" expanded="true" />
-            <element signature="e#3419#3420#0" expanded="true" />
-            <element signature="e#3497#3498#0" expanded="true" />
-            <element signature="e#3522#3523#0" expanded="true" />
-            <element signature="e#13661#13662#0" expanded="true" />
-            <element signature="e#13706#13707#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/Hashtable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="129" column="13" selection-start-line="129" selection-start-column="13" selection-end-line="129" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/demo/thread/synchronizedmap/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/SynchronousQueue_Test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/concurrent/SynchronousQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-16">
-          <caret line="683" column="43" lean-forward="true" selection-start-line="683" selection-start-column="43" selection-end-line="683" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/concurrent/LinkedBlockingQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="679">
-          <caret line="248" column="11" selection-start-line="248" selection-start-column="11" selection-end-line="248" selection-end-column="11" />
-          <folding>
-            <element signature="e#7388#7389#0" expanded="true" />
-            <element signature="e#7427#7428#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="324">
+          <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="436">
-            <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <first_editor relative-caret-position="378">
+            <caret line="21" selection-start-line="21" selection-end-line="21" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -989,55 +933,378 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+    <entry file="file://$PROJECT_DIR$/test/src/test/Son.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="357" column="21" selection-start-line="357" selection-start-column="21" selection-end-line="357" selection-end-column="21" />
+        <state relative-caret-position="72">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
+    <entry file="file://$PROJECT_DIR$/test/src/pattern/templatemethod/Dancer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="185" column="31" selection-start-line="185" selection-start-column="31" selection-end-line="185" selection-end-column="31" />
+        <state relative-caret-position="72">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/pattern/templatemethod/Company.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/jre/lib/rt.jar!/java/util/ArrayList.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="182" column="40" selection-start-line="182" selection-start-column="40" selection-end-line="182" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/concurrent/ConcurrentLinkedQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2826">
+          <caret line="254" column="11" selection-start-line="254" selection-start-column="11" selection-end-line="254" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/ArrayDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="431" column="17" lean-forward="true" selection-start-line="431" selection-start-column="17" selection-end-line="431" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="180" column="5" selection-start-line="180" selection-start-column="5" selection-end-line="180" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="785">
+          <caret line="942" column="26" selection-start-line="942" selection-start-column="26" selection-end-line="942" selection-end-column="26" />
           <folding>
-            <element signature="e#4725#4726#0" expanded="true" />
-            <element signature="e#4793#4794#0" expanded="true" />
+            <element signature="e#36478#36479#0" expanded="true" />
+            <element signature="e#36536#36537#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/concurrent/LinkedTransferQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="1237" column="24" selection-start-line="1237" selection-start-column="16" selection-end-line="1237" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/concurrent/Delayed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/concurrent/DelayQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="69" column="13" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/pattern/templatemethod/Singer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java_utils/JUnit4/junit-4.7.jar!/org/junit/internal/builders/JUnit4Builder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/pattern/templatemethod/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/TestDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+          <folding>
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/TestDemoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding>
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/concurrent/LinkedBlockingDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="152" lean-forward="true" selection-start-line="152" selection-end-line="152" />
+          <folding>
+            <element signature="e#4931#4932#0" expanded="true" />
+            <element signature="e#4970#4971#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/demo/thread/synchronized_test/TestParentSynReentrant.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/demo/thread/synchronized_test/TestReentrantSynchronized.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/concurrent/BlockingQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="261" column="6" selection-start-line="261" selection-start-column="6" selection-end-line="261" selection-end-column="6" />
+        <state relative-caret-position="366">
+          <caret line="179" column="17" selection-start-line="179" selection-start-column="17" selection-end-line="179" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/SynchronousQueue_Test.java">
+    <entry file="file://$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/ConcurrentLinkedQueue_Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="62" selection-start-line="24" selection-start-column="62" selection-end-line="24" selection-end-column="62" />
+        <state relative-caret-position="216">
+          <caret line="12" column="58" lean-forward="true" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/LinkedBlockingQueue_Test.java">
+    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/concurrent/locks/Condition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="230" column="9" selection-start-line="230" selection-start-column="9" selection-end-line="230" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/concurrent/locks/AbstractQueuedLongSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="1811" column="26" selection-start-line="1811" selection-start-column="26" selection-end-line="1811" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="346" column="16" selection-start-line="346" selection-start-column="16" selection-end-line="346" selection-end-column="16" />
+          <folding>
+            <element signature="e#6812#6813#0" expanded="true" />
+            <element signature="e#6849#6850#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/blockingqueue/BlockingQueue_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/concurrent/TimeUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5029">
+          <caret line="70" column="12" selection-start-line="70" selection-start-column="12" selection-end-line="70" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/blockingqueue/delayqueue/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/blockingqueue/delayqueue/DelayQueue_Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
-          <caret line="7" column="64" lean-forward="true" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
+          <caret line="6" column="70" selection-start-line="6" selection-start-column="70" selection-end-line="6" selection-end-column="70" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/TransferQueue_Test.java">
+    <entry file="file://$PROJECT_DIR$/test/src/demo/thread/highConcurrentProjectDemo/DaemonDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/demo/thread/highConcurrentProjectDemo/PriorityDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/demo/thread/highConcurrentProjectDemo/StopThreadUnsafe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-654">
+          <caret line="136" column="17" selection-start-line="136" selection-start-column="17" selection-end-line="136" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/demo/thread/callable_test/Machine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="88" column="28" selection-start-line="88" selection-start-column="28" selection-end-line="88" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3222">
+          <caret line="317" column="3" lean-forward="true" selection-start-line="317" selection-start-column="3" selection-end-line="317" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/concurrent/Future.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/concurrent/FutureTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="123" lean-forward="true" selection-start-line="123" selection-end-line="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/demo/thread/threadpool/note.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/concurrent/RunnableFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="47" column="55" selection-start-line="47" selection-start-column="55" selection-end-line="47" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/demo/thread/ConcurrentList/ListAndVector_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/blockingqueue/synchronousqueue/SynchronousQueue_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/blockingqueue/synchronousqueue/SynchronousQueue_Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/blockingqueue/transferqueue/TransferQueue_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-40">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/demo/thread/concurrentqueue/blockingqueue/transferqueue/TransferQueue_Test2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/demo/thread/callable_test/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/demo/thread/threadpool/future/FutureTask_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/demo/thread/threadpool/future/Future_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -1093,7 +1360,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>demo</last-edited>
+          <last-edited>test</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

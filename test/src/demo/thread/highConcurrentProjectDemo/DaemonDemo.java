@@ -1,4 +1,4 @@
-package demo.thread;
+package demo.thread.highConcurrentProjectDemo;
 
 public class DaemonDemo {
     public static class DaemonT extends Thread{

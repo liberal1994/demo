@@ -3,11 +3,7 @@ package demo.thread.synchronized_test;
 public class TestReentrantSynchronized {
 
     public static void main(String[] args) {
-        new Thread(){
-            public void run(){
-                m1();
-            }
-        }.start();
+        new Thread(() -> m1()).start();
     }
 
     static synchronized void m1() {

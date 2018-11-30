@@ -1,4 +1,4 @@
-package demo.thread;
+package demo.thread.highConcurrentProjectDemo;
 
 public class PriorityDemo {
     public static class HighPriority extends Thread {
