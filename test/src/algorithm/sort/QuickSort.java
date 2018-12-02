@@ -34,6 +34,7 @@ public class QuickSort {
         }
         arr[i] = keyword;
         quickSort(arr, left, i - 1);
+        //这里的右半边递归的参数left必须用i+1,不然会导致栈溢出
         quickSort(arr, i + 1, right);
     }
 }
