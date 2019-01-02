@@ -9,7 +9,7 @@ public class Machine implements Callable<Integer> {
      * @throws Exception
      */
     @Override
-    public Integer call() throws Exception {
+    public Integer call()  {
         System.out.println("The machine is on working...");
         return 100;
     }

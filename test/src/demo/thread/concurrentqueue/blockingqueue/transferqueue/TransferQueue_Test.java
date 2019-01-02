@@ -32,7 +32,7 @@ public class TransferQueue_Test {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-
+        System.exit(0);
     }
 
 }

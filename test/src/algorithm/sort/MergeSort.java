@@ -4,41 +4,41 @@ import java.util.Arrays;
 
 public class MergeSort {
     public static void main(String[] args) {
-//        int[] arr = {23, 26, 5, 19, 52, 17, 28, 63, 77, 29};
-//        System.out.println(Arrays.toString(arr));
-//        System.out.println(Arrays.toString(arr));
-        int arr1[]={2,5,8,9};
-        int arr2[]={1,4,7,10};
-        int newArr[]=mergeSort(arr1,arr2);
-        System.out.println(Arrays.toString(newArr));
+        int[] arr = {23, 26, 5, 19, 52, 17, 28, 63, 77, 29};
+        int[] temp = new int[arr.length];
+        mergeSort(arr, 0, arr.length - 1, temp);
+        System.out.println(Arrays.toString(arr));
 
     }
 
-    private static int[] mergeSort(int[] arr1,int arr2[]) {
-        int s1=0,s2=0,k=0;
-        int mergeArr[]=new int[arr1.length+arr2.length];
-        while(s1<arr1.length&&s2<arr2.length){
-            if(arr1[s1]<arr2[s2]){
-                mergeArr[k++]=arr1[s1++];
-                continue;
-            }
-            else {
-                mergeArr[k++]=arr2[s2++];
-                continue;
+    private static void merge(int[] arr, int left, int mid, int right, int[] temp) {
+        int s1 = left, s2 = mid + 1, k = left;
+        while (s1 <= mid && s2 <= right) {
+            if (arr[s1] < arr[s2]) {
+                temp[k++] = arr[s1++];
+            } else {
+                temp[k++] = arr[s2++];
             }
         }
-        if(s1<arr1.length){
-            for(int i=s1;i<arr1.length;i++){
-                mergeArr[k++]=arr1[i];
-            }
+        while (s1 <= mid) {
+            temp[k++] = arr[s1++];
         }
-        if(s2<arr2.length){
-            for(int j=s2;j<arr2.length;j++){
-                mergeArr[k++]=arr2[j];
-            }
+        while (s2 <= right) {
+            temp[k++] = arr[s2++];
         }
-        return mergeArr;
+        for (int index = left; index <= right; index++) {
+            arr[index] = temp[index];
+        }
     }
 
+    private static void mergeSort(int[] arr, int left, int right, int[] temp) {
+        if (left >= right) {
+            return;
+        }
+        int mid = (left + right) >> 1;
+        mergeSort(arr, left, mid, temp);
+        mergeSort(arr, mid + 1, right, temp);
+        merge(arr, left, mid, right, temp);
+    }
 
 }

@@ -1,6 +1,7 @@
 package demo.thread.concurrentqueue.blockingqueue.transferqueue;
 
 import java.util.concurrent.LinkedTransferQueue;
+import java.util.concurrent.TimeUnit;
 
 public class TransferQueue_Test2 {
     private final static int THREAD_NUM = 20;
@@ -11,7 +12,9 @@ public class TransferQueue_Test2 {
         for (int i = 0; i < THREAD_NUM; i++) {
             new Thread(() -> {
                 try {
-                    System.out.println(Thread.currentThread().getName() + ":" + queue.take());
+                    while (true) {
+                        System.out.println(Thread.currentThread().getName() + ":" + queue.take());
+                    }
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
@@ -22,6 +25,8 @@ public class TransferQueue_Test2 {
             System.out.println(queue.getWaitingConsumerCount());//获取等待的消费者线程数
             // boolean hasWaitingConsumer()判断有无等待线程
             for (int i = 0; i < 100; i++) {
+
+                TimeUnit.MILLISECONDS.sleep(100);
 //                if(!queue.hasWaitingConsumer()){
 //                    break;//当消费者线程全部消耗完结束生产，主线程不会继续执行transfer方法
 //                }
@@ -36,7 +41,9 @@ public class TransferQueue_Test2 {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
+        System.out.println(queue.hasWaitingConsumer());
 
+        System.exit(0);
     }
 
 }

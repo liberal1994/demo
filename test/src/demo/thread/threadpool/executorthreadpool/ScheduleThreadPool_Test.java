@@ -39,7 +39,7 @@ public class ScheduleThreadPool_Test {
             final int j = i;
             ((ScheduledExecutorService) service).schedule(() -> {
                 try {
-                    TimeUnit.SECONDS.sleep(1);
+                    TimeUnit.SECONDS.sleep(3);
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }

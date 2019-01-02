@@ -16,7 +16,7 @@ public class FixedThreadPool_Test {
         for(int i=0;i<6;i++){
             service.execute(()->{
                 try {
-                    TimeUnit.SECONDS.sleep(1);
+                    TimeUnit.SECONDS.sleep(2);
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }

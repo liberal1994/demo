@@ -26,11 +26,12 @@ public class SynchronousQueue_Test2 {
         }
         try {
             Thread.sleep(6);//不睡眠主线程，每次都是线程1拿到字符串
-                                    //在一个时间范围内，每个线程都有机会拿到
+                                    //在一个时间范围内(几毫秒左右)，每个线程都有机会拿到
             queue.put("aaa");
             System.out.println(queue.size());
         } catch (Exception e) {
             e.printStackTrace();
         }
+        System.exit(0);
     }
 }

@@ -23,12 +23,7 @@ public class Test1 {
     }
 
     public static void main(String[] args) {
-        Runnable r=new Runnable(){
-            @Override
-            public void run(){
-                m1();
-            }
-        };
+        Runnable r= () -> m1();
         Thread t1=new Thread(r,"t1");
         t1.start();
     }

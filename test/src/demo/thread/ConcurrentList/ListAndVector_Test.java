@@ -17,16 +17,13 @@ public class ListAndVector_Test {
     public static void main(String[] args) throws InterruptedException {
         CountDownLatch latch = new CountDownLatch(5);//一条线程执行完毕计数减一，所有线程执行完毕，即count=0时主线程被唤醒
         for (int i = 0; i < 5; i++) {
-            new Thread() {
-                @Override
-                public void run() {
-                    final int count=5;
-                    for (int j = 0; j < 100; j++) {
-                        list.add(j);
-                    }
-                    latch.countDown();
+            new Thread(() -> {
+                final int count=5;
+                for (int j = 0; j < 100; j++) {
+                    list.add(j);
                 }
-            }.start();
+                latch.countDown();
+            }).start();
         }
         latch.await();//主线程阻塞，等待其他线程执行完毕使得count=0
         list.stream().forEach((Integer o) ->{if(o==null){throw new NullPointerException();}System.out.println(o);});
